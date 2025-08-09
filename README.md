@@ -53,7 +53,7 @@ The dataset contains customer complaint records, including:
 ---
 
 ## 📷 Chart Screenshots
-![Monthly Sales Dashboard]() 
-![Product Sales Dashboard]() 
+![Product Return Chart](Product_Return_Chart.png) 
+![Reason Chart](Reason_Chart.png) 
 
 
